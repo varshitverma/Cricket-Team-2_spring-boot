@@ -22,7 +22,7 @@ And also given a database file `cricketteam` which contains `TEAM` table.
 Use only TEAM as a table name in your code while writing queries.
 </SingleLineNote>
 
-### Completion Instructions
+### Instructions
 
 - `Player.java`: `Player` class should contain the following attributes.
 
@@ -38,7 +38,7 @@ Use only TEAM as a table name in your code while writing queries.
 - `PlayerController.java`: Create the controller class to handle HTTP requests.
 - `PlayerRowMapper.java`: Create a class which implements the `Rowmapper Interface`.
 
-Implement the following APIs.
+Implemented the following APIs.
 
 ### API 1
 
@@ -163,6 +163,3 @@ Deletes a player from the team  based on the `playerId`.
 
 **Do not modify the code in `PlayerApplication.java`**
 
-**Do not  modify anything in the `application.properties` file**
-
-**Do not add any Sql files**
